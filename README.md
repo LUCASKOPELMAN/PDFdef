@@ -59,6 +59,6 @@ This project is released under the MIT License.
 
 ---
 
-## 🙋 Author
+### Acknowledgments
 
-Built by [Your Name] — feel free to fork or contribute!
+This project used [ChatGPT (GPT-4o)](https://openai.com/chatgpt) by OpenAI for development assistance, powered by the Windsurf infrastructure for code generation and productivity support.
